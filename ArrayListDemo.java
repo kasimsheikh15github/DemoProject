@@ -8,7 +8,7 @@ public class ArrayListDemo {
 
 	public static void main(String[] args) {
 
-		List<String> list = Arrays.asList("sagar","sawant","sushil","vinod");
+		List<String> list = Arrays.asList("saloni","sawant","sushil","vinod");
 		
 	     Iterator<String> itr = list.iterator();
 	     
